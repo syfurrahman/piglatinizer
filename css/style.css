@@ -1,6 +1,11 @@
-.container{
-    text-align:center;
+body {
+ text-align:center;   
 }
-body{
-    background:pink;
+body {
+    color: blue;
 }
+body {background-color: lightBlue;}
+
+#pigWord {color: red; 
+margin: 10%;
+font-size: 40px;}
